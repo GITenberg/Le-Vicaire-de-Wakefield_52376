@@ -1,0 +1,49 @@
+_repo: Le-Vicaire-de-Wakefield_52376
+_version: 0.0.1
+alternative_title: The vicar of Wakefield. French
+contributor:
+  illustrator:
+    agent_name: Poirson, V. A.
+    alias: Poirson, Victor Armand
+    gutenberg_agent_id: '34638'
+    url: http://www.gutenberg.org/2009/agents/34638
+  translator:
+    agent_name: Gausseron, Bernard Henri
+    aliases:
+    - Gausseron, B. H.
+    - Gausseron, Bernard-Marie-Henri
+    - Gausseron, Bernard-Henri
+    birthdate: 1845
+    deathdate: 1913
+    gutenberg_agent_id: '39868'
+    url: http://www.gutenberg.org/2009/agents/39868
+creator:
+  author:
+    agent_name: Goldsmith, Oliver
+    alias: Goldsmit, Oliver
+    deathdate: 1774
+    gutenberg_agent_id: '211'
+    url: http://www.gutenberg.org/2009/agents/211
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2016-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52376'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor families -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Abduction -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Children of clergy -- Fiction'
+- GITenberg
+title: Le Vicaire de Wakefield
+url: http://www.gutenberg.org/ebooks/52376
